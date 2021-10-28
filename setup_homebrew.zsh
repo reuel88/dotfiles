@@ -8,9 +8,10 @@ brew install httpie
 brew install bat
 
 # Browsers
-brew install --cask google-chrome
-brew install --cask firefox
-brew install --cask microsoft-edge
+brew install --cask --no-quarantine google-chrome
+brew install --cask --no-quarantine firefox
+brew install --cask --no-quarantine microsoft-edge
 
 # IDE
-brew install --cask visual-studio-code
+brew install --cask --no-quarantine visual-studio-code
+brew install --cask --no-quarantine webstorm
