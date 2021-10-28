@@ -12,7 +12,6 @@
     - ~/Work
 
 - shell:
-  - echo "hey you guys"
   - 
     command: ./setup_homebrew.zsh
     stdout: true
