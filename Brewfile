@@ -10,6 +10,7 @@ brew "exa"
 brew "git"
 brew "httpie"
 brew "mas"
+brew "nano"
 brew "eth-p/software/bat-extras"
 
 # Casks (Applications)
