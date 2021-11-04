@@ -28,4 +28,4 @@ function mkcd() {
 
 # Use ZSH Plugins
 
-# ...and Other Suprises
+# ...and Other Surprises
