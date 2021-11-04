@@ -6,7 +6,8 @@
 
 - link:
     ~/.zshrc:
-    ~/.gitconfig: 
+    ~/.zshenv:
+    ~/.gitconfig:
     ~/.config/bat:
       create: true
       path: config/bat
