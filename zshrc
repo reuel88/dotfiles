@@ -1,5 +1,3 @@
-echo 'Hello from .zshrc'
-
 # Set Variables
 export HOMEBREW_CASK_OPTS="--no-quarantine"
 
@@ -10,7 +8,8 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 alias ls='exa -laFh --git'
 alias exa='exa -laFh --git'
 alias man=batman
-alias bbd='brew bundle dump --force --describe' 
+alias bbd='brew bundle dump --force --describe'
+alias trail='<<<${(F)path}'
 
 # Customize Prompt(s)
 PROMPT='
