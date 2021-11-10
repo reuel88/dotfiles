@@ -13,6 +13,7 @@ brew "less"
 brew "mas"
 brew "nano"
 brew "eth-p/software/bat-extras"
+brew "zsh"
 
 # Casks (Applications)
 cask "dropbox"
