@@ -8,3 +8,9 @@ else
   echo "Installing Node & NPM with NVM"
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 fi
+
+# Install Global NPM Packages
+# npm install --global
+
+echo "Global NPM Packages Installed:"
+npm list --global --depth=0
