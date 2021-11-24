@@ -10,7 +10,8 @@ else
 fi
 
 # Install Global NPM Packages
-# npm install --global
+# Check node packages that are out of date
+npm install --global npm-check-updates
 
 echo "Global NPM Packages Installed:"
 npm list --global --depth=0
