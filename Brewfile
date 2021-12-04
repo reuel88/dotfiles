@@ -27,4 +27,6 @@ cask "microsoft-edge"
 cask "setapp"
 cask "signal"
 cask "visual-studio-code"
+mas "Grammarly for Safari", id: 1462114288
 mas "Honey", id: 1472777122
+mas "Qantas Shopping PointsPrompter", id: 1468230799
